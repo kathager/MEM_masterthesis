@@ -1,5 +1,5 @@
 ## MEM_masterthesis
-#Minimum wages in collective bargaining: Evidence from Switzerland's MEM industry.
+Minimum wages in collective bargaining: Evidence from Switzerland's MEM industry.
 This repository includes all files used to produce graphs, tablkes, numbers and analysis for the masterthesis on the introduction of minimum wages in the MEM sector in 2013.
 The content is structured similar to the thesis. 
 Data on opting out and CBA-membership is in folder 0. 
